@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola Bienvenid@ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55px">
 
 <!--
 **Laura34-a/Laura34-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
